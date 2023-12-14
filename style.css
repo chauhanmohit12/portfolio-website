@@ -29,6 +29,11 @@
   background-color: #27ae60;
   border:1px #27ae60 solid;
 }
+.btn:hover{
+  cursor: pointer;
+  background-color: #188545;
+  border:1px #188545 solid;
+}
 
 .navelement{
   height: 25vh;
